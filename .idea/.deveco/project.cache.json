@@ -1,0 +1,16 @@
+{
+	"CommonInfo":{
+		"crossplatform.projectType":"",
+		"project.ide.version":"5.1.1.420",
+		"current.select.product":"default",
+		"current.select.buildMode":""
+	},
+	"BuildOptions":{
+		"BUNDLE_NAME":"com.example.rdb",
+		"SELECT_BUILD_MODE":"",
+		"BUILD_PATH":{
+			"OUTPUT_PATH":"D:\\HUAWEI\\projectss\\ac2\\Account-main\\Account-main\\build\\outputs\\default"
+		},
+		"SELECT_BUILD_PRODUCT":"default"
+	}
+}
